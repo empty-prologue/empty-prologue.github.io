@@ -10,3 +10,11 @@
   -moz-transform: rotateZ(360deg);
   transform: rotateZ(360deg);
 }
+.left-col .overlay{
+	background: rgba( 199, 113, 113, 0.70 );
+	box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+	backdrop-filter: blur( 3.0px );
+	-webkit-backdrop-filter: blur( 3.0px );
+	border-radius:72px 10px 175px 24px;
+	border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
